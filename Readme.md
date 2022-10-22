@@ -22,4 +22,4 @@ The following models were tested to see which of them would be most suitable for
 - Gradient Boosting
 - Naive Bayes
 
-As the amount of data was considerably small, a 5-Fold cross validation with 5 folds was done to evaluate the models.
+As the amount of data was considerably small, a 5-Fold cross validation was done to evaluate the models.
