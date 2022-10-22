@@ -1,4 +1,4 @@
-# Loan Eligibility Prediction
+## Loan Eligibility Prediction
 
 This project deals with predicting whether or not a loan should be sanctioned based on several features such as:
 - Loan_ID
@@ -22,4 +22,4 @@ The following models were tested to see which of them would be most suitable for
 - Gradient Boosting
 - Naive Bayes
 
-As the amount of data was considerably small, K-Fold cross validation with 5 folds was used for evaluating the models.
+As the amount of data was considerably small, a 5-Fold cross validation with 5 folds was done to evaluate the models.
